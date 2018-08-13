@@ -13,7 +13,8 @@ Steps to start from scratch.
   a. Makes sure you change the "Cu" in the looper.sh to whatever element name you have created already in the pervious files
   b. Ensure that paths are changed to match what you have on the computer you have decided to run the calcs
   c. Ensure you have a folder on the desktop named "Completed" and inside that folder, you need to make a new folder and name it whatever      base element you have decided right now it is "Cu" because that is what we started with.  If the base element you choose from the          archive is "H", then you need to make sure the folder inside the "Completed" folder is named "H", and all the references to "Cu" in the    "looper.sh" is changed to "H" (use a copy and replace in word).
-  d. Ensure that the "JFEFF" folder that is included in this fork is also on the desktop
+  d. Ensure that the "JFEFF" folder that is in the JFEFF package is on the desktop. This the folder that has the feff command file in it. Ask Dr. Jeff Terry for the folder, it is where the executable is 
+  The location of the feff executable is: /Applications/jfeff.app/Contents/Resources/JFEFF
   e. Ensure that you have a folder with all the feff.inp files on the desktop.
 
 NOTES:
